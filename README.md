@@ -1,6 +1,6 @@
 # primeiro_app
 
-A new Flutter project.
+Meu primeiro app em flutter, fiz a criação de Cards, no app de filmes.
 
 ## Getting Started
 
